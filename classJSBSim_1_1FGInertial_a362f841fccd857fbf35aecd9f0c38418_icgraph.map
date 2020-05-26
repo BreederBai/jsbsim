@@ -1,0 +1,14 @@
+<map id="SetAltitudeAGL" name="SetAltitudeAGL">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInertial.html#a680da2ca4624c0eee6cd8d53625fb0dc" title="Get the altitude above ground level. " alt="" coords="205,163,325,189"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="1112,185,1299,226"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGPropagate.html#a61eb764447723162a99933775f3921a4" title="Returns the &quot;constant&quot; LocalTerrainRadius. " alt="" coords="415,94,585,135"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="172,265,359,306"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="407,225,593,266"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGPropagate.html#a9729191af164b5db0c9f72cd182939d2" title="Initializes the FGPropagate class after instantiation and prior to first execution. " alt="" coords="186,330,345,371"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="407,159,593,201"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a93ec4bc417c0505b4548f6a63af82bdf" title="Sets the initial terrain elevation. " alt="" coords="641,225,828,266"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInitialCondition.html#ab6f6dae970e40878a34789be7dfcb9a7" title="Sets the initial latitude. " alt="" coords="641,94,828,135"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="641,159,828,201"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a68c83023466c7734fea2917175d9325d" title="Sets the flight path angle initial condition in degrees. " alt="" coords="876,269,1064,310"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGInitialCondition.html#a122dacd64147e2d1b1db97e719de2989" title="Sets pitch angle initial condition in degrees. " alt="" coords="877,393,1063,434"/>
+</map>

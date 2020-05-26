@@ -1,0 +1,8 @@
+<map id="SetTerrainElevationFtIC" name="SetTerrainElevationFtIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="225,13,369,39"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGFDMExec.html#a93876fb8e8a2302e3880f9ebfb3ce6d5" title="Returns the FGInertial pointer. " alt="" coords="421,71,580,112"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInertial.html#a951b99be7d4a44868bf71be60537ac23" title="Set the terrain elevation above sea level. " alt="" coords="221,115,373,156"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="226,181,369,207"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInertial.html#a680da2ca4624c0eee6cd8d53625fb0dc" title="Get the altitude above ground level. " alt="" coords="433,5,569,47"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInertial.html#a362f841fccd857fbf35aecd9f0c38418" title="Set the altitude above ground level. " alt="" coords="628,68,764,109"/>
+</map>

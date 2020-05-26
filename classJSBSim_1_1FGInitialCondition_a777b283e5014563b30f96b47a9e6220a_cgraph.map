@@ -1,0 +1,5 @@
+<map id="SetGeodLatitudeRadIC" name="SetGeodLatitudeRadIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#ace936ea4b4378c9f57abbc24a0c86332" title="Gets the geodetic altitude in feet. " alt="" coords="226,5,373,47"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a2420bec8cd0ca25c04353050a926a6af" title="Get the longitude. " alt="" coords="226,71,373,112"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#af0f103b7c1f4c5c8cdceb15a55305fe2" title="Sets the longitude, latitude and the distance above the reference ellipsoid. " alt="" coords="220,136,379,177"/>
+</map>

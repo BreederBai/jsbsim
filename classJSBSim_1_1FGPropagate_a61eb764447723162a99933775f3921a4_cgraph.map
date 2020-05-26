@@ -1,0 +1,7 @@
+<map id="GetLocalTerrainRadius" name="GetLocalTerrainRadius">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInertial.html#a17c06de7da428ec2c57fd087ac3d5fc0" title="Get terrain contact point information below the current location. " alt="" coords="222,5,358,47"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a3f3f67b03ed439bd572208afa1a737b5" title="Get the distance from the center of the earth. " alt="" coords="217,71,363,112"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInertial.html#a680da2ca4624c0eee6cd8d53625fb0dc" title="Get the altitude above ground level. " alt="" coords="222,136,358,177"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInertial.html#a362f841fccd857fbf35aecd9f0c38418" title="Set the altitude above ground level. " alt="" coords="412,165,548,207"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGMatrix33.html#a40dfaac7d5941acbb712f0f89f44a65a" title="Returns the quaternion associated with this direction cosine (rotation) matrix. " alt="" coords="216,253,364,295"/>
+</map>

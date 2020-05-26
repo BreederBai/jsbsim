@@ -1,0 +1,9 @@
+<map id="GetAltitudeAGL" name="GetAltitudeAGL">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInertial.html#a362f841fccd857fbf35aecd9f0c38418" title="Set the altitude above ground level. " alt="" coords="173,177,292,203"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#ace936ea4b4378c9f57abbc24a0c86332" title="Gets the geodetic altitude in feet. " alt="" coords="381,5,528,47"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#a2420bec8cd0ca25c04353050a926a6af" title="Get the longitude. " alt="" coords="381,71,528,112"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGLocation.html#aaee8027cf9d3d2d8f91be6190f08765e" title="Get the geodetic latitude. " alt="" coords="373,136,536,177"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#af0f103b7c1f4c5c8cdceb15a55305fe2" title="Sets the longitude, latitude and the distance above the reference ellipsoid. " alt="" coords="375,201,534,243"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGPropertyManager.html#a6285265032c989f4286e7ba47d268733" title="Tie a property to an external bool variable. " alt="" coords="340,267,569,294"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGLocation.html#abcf6f87deb0024b8b0c62d4608150d69" title="Get the sea level radius below the current location. " alt="" coords="378,319,531,360"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SetLatitudeRadIC" name="SetLatitudeRadIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="187,78,331,105"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#a9c53151a720f02d6a7ddca32e5946745" title="Set the latitude. " alt="" coords="185,185,332,227"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="187,130,330,157"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGFDMExec.html#a93876fb8e8a2302e3880f9ebfb3ce6d5" title="Returns the FGInertial pointer. " alt="" coords="396,71,555,112"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInertial.html#a680da2ca4624c0eee6cd8d53625fb0dc" title="Get the altitude above ground level. " alt="" coords="407,5,543,47"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInertial.html#a362f841fccd857fbf35aecd9f0c38418" title="Set the altitude above ground level. " alt="" coords="619,68,755,109"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGColumnVector3.html#a6e9ec6fa7764cdad294729403b238bdb" title="Length of the vector. " alt="" coords="380,188,571,229"/>
+</map>
